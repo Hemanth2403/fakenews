@@ -1,0 +1,5 @@
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.1
+flask==3.0.3  # Only if you're using Flask
+joblib==1.4.2  # For saving and loading models
