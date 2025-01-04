@@ -97,6 +97,7 @@ st.markdown("""
         border-radius: 10px;
         margin-top: 20px;
         text-align: center;
+        text-colour: white;
     }
     .fake-news {
         background-color: #000000;
